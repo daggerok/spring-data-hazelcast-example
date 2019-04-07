@@ -18,7 +18,7 @@ import static org.springframework.http.HttpStatus.OK;
 @Log4j2
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = RANDOM_PORT)
-public class SpringTddExampleApplicationTests {
+public class SpringDataHzApplicationTests {
 
   @Autowired
   private TestRestTemplate restTemplate;

@@ -12,7 +12,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.daggerok</groupId>
-  <artifactId>spring-tdd-example</artifactId>
+  <artifactId>spring-data-hazelcast-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>spring-tdd-example</name>
   <description>Demo project for Spring Boot</description>

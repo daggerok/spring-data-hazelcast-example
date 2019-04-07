@@ -123,8 +123,8 @@ class MyObjectHandlers {
 }
 
 @SpringBootApplication
-public class SpringTddExampleApplication {
+public class SpringDataHzApplication {
   public static void main(String[] args) {
-    SpringApplication.run(SpringTddExampleApplication.class, args);
+    SpringApplication.run(SpringDataHzApplication.class, args);
   }
 }
